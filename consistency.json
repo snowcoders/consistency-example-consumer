@@ -4,6 +4,12 @@
       "platform": "github",
       "owner": "snowcoders",
       "name": "consistency-example-consumer"
+    },
+    
+    {
+      "platform": "github",
+      "owner": "snowcoders",
+      "name": "consistency-example-producer"
     }
   ]
 }
